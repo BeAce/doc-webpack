@@ -1,4 +1,4 @@
-var map = require('lodash/map')
+import { map } from 'lodash'
 
 function square(n) {
   return n * n
